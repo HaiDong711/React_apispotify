@@ -1,0 +1,22 @@
+.track-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .track-image {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%; /* Làm cho ảnh thành hình tròn */
+    margin-right: 15px;
+  }
+  
+  .track-info {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  audio {
+    margin-top: 5px;
+  }
+  
